@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+👋 Hi, I’m @aminenv
+👀 I’m interested in python , django framework , back-end , a little embeded systems and ...
+🌱 I’m currently learning django framework :)
+💞️ I’m getting started internship program of software engineer on Huawei
 <!--
 **aminenv/aminenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
