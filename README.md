@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @aminenv
-### 👀 I’m interested in python , django framework , back-end , a little embeded systems and ...
+### 👀 I’m interested in python , django framework , back-end , a little bit embeded systems and ...
 ### 🌱 I’m currently learning django framework :)
 ### 💞️ I’m getting started internship program of software engineer on Huawei
 ### 📫 How to reach me :
