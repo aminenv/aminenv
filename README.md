@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @aminenv
 ### 👀 I’m interested in python , django framework , back-end , a little bit embeded systems and ...
 ### 🌱 I’m currently learning django framework :)
-### 💞️ I’m getting started internship program of software engineer on Huawei
+### 💞️ I’m working as software engineer at Huawei
 ### 📫 How to reach me :
 ###                     --- by email : tohidimohamadamin@gmail.com ---
 ###                                    that's it :)
