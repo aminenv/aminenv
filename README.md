@@ -1,10 +1,6 @@
 ### 👋 Hi, I’m @aminenv
-### 👀 I’m interested in python , django framework , back-end , a little bit embeded systems and ...
-### 🌱 I’m currently learning django framework :)
-### 💞️ I’m working as software engineer at Huawei
-### 📫 How to reach me :
-###                     --- by email : tohidimohamadamin@gmail.com ---
-###                                    that's it :)
+### 👀 interested in python , django framework, Celery, Apache Ignite, Online-charging systems and a little bit embeded systems and ...
+### ⚡ working as software engineer at Huawei
 
 <!--
 **aminenv/aminenv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
